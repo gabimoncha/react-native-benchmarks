@@ -6,12 +6,13 @@ It is currently open to suggestions, discussions, and updates. All stakeholders 
 ## Objective:
 
 Develop a standardized repository for benchmarking React Native applications, addressing key issues in the current benchmarking landscape.
+All important aspects will have a discussion thread.
 
 ## Key Points:
 
 ### 1. Standardization of Benchmarks:
 
-- Establish a public repo that open source maintainers will use to test, develop and improve further their libraries
+- Establish a public repo that open source maintainers will use to test, develop and improve further their libraries. [Poll](https://github.com/gabimoncha/react-native-benchmarks/discussions/2)
 - Agree on a range of tests with varying complexity and performance is measured
 - Ensure consistency in styling approaches, such as inline styles vs. styled views
 - Ensure a diverse range of devices that the community can test on and average out
