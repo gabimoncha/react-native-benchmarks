@@ -2,6 +2,11 @@
   "name": "react-native-benchmarks",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": {
+    "name": "gabimoncha",
+    "url": "https://x.com/gabimoncha",
+    "email": "gabimoncha@gmail.com"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
